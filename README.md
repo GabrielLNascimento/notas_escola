@@ -11,9 +11,9 @@ depois disso ele adiciona tudo na planilha
 Pede ao usuario qual matéria ele quer procurar, e o script procura dentro da planilha
 E retorna as notas
 
-3 - Listar matérias e notas
+3. - Listar matérias e notas
 Lista todas as matérias e notas
 
-4 - mostrar médias
+4. - mostrar médias
 Calcula as médias, e mostra na tela a matéria e a média
 E adiciona tudo na planilha
